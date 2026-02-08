@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏影のカンタービレ",
+  "base_artist": "Jams Collection",
+  "createdAt": "2026-02-08T07:43:20.092710Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏影のカンタービレ",
+      "artist": "Jams Collection",
+      "has_synced": false,
+      "path": "select/pl_01_夏影のカンタービレ_Jams_Collection.txt"
+    }
+  ]
+}
